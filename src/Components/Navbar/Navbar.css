@@ -1,0 +1,11 @@
+.navlink{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.navlink:hover{
+    transform: scale(1.1);
+}
+.title{
+    flex-grow: 1;
+}
